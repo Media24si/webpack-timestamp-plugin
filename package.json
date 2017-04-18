@@ -1,6 +1,6 @@
 {
   "name": "webpack-timestamp-plugin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Webpack timestamp plugin for adding timestamps to files.",
   "main": "index.js",
   "scripts": {
