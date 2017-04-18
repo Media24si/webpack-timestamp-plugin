@@ -1,7 +1,7 @@
 function VersionTimestamp (config) {
     this.config = Object.assign({
         path: 'config/timestamp.php',
-        content: '<?php return ["ts" => #TS#]'
+        content: '<?php return ["ts" => #TS#];'
     }, config);
 }
 
